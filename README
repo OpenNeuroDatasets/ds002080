@@ -1,10 +1,10 @@
 Brain Tumor Connectomics Data
 
-Post-operative data of 7 glioma patients, 12 meningioma patients (1 [sub-PAT11] with bad data quality) and 10 control subjects. 
+Post-operative data of 7 glioma patients, 12 meningioma patients (1 [sub-PAT11] with bad data quality) and 10 control subjects used in paper "Modeling brain dynamics after tumor resection using The Virtual Brain" (Aerts et al. 2019, biorXiv).
 
 Contact information:
-Name: Hannelore Aerts, Daniele Marinazzo
-Email: hannelore.aerts@ugent.be, daniele.marinazzo@ugent.be
+Name: Hannelore Aerts & Daniele Marinazzo
+Email: hannelore.aerts@ugent.be / daniele.marinazzo@ugent.be
 
 Out of the 11 glioma patients, 14 meningioma patients, and 11 healthy controls that were included pre-surgically ("BTC_preop" on OpenNeuro), 7 glioma patients (1 drop-out, 1 no resection, 2 end of study), 12 meningioma patients (1 drop-out, 1 MRI not possible because of cochlear implant), and 10 healthy controls (1 drop-out) agreed to participate post-operatively. 
 
