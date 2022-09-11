@@ -1,3 +1,6 @@
+4.0.0 2022-09-11
+  - added DWI QC
+  - added rsHRF shape parameters
 3.0.0 2022-03-10
   - added mriqc derivatives
 2.1.0 2022-01-13
